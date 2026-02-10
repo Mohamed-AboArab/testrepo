@@ -1,5 +1,20 @@
-# testrepo
+# Data Science Portfolio
 
-## Editing the file
+## 📊 Machine Learning Projects
 
-Its a markdown file in this repository.
+### 1. Rainfall Prediction
+**File:** `FinalProject_AUSWeather.ipynb`
+**Description:** Predict rainfall using Australian weather data
+
+### 🛠️ Technologies
+- Python, Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
+### 📁 Project Structure
+- `requirements.txt` - Python dependencies
+- `.gitignore` - Files to ignore
+- Jupyter notebooks for analysis
+
+### 👨‍💻 Author
+Mohamed AboArab
